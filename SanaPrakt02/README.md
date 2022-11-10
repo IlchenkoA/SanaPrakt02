@@ -13,3 +13,4 @@
  - [ ] GitLab
  - [ ] Bitbucket
 >Ilchenko Alina
+Виконала: Ільченко Аліна
